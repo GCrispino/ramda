@@ -237,6 +237,7 @@ export { default as unless } from './unless';
 export { default as unnest } from './unnest';
 export { default as until } from './until';
 export { default as update } from './update';
+export { default as updateNested } from './updateNested';
 export { default as useWith } from './useWith';
 export { default as values } from './values';
 export { default as valuesIn } from './valuesIn';
